@@ -1,2 +1,0 @@
-# imc
-Apk de IMC
